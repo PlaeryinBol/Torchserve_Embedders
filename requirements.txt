@@ -1,0 +1,6 @@
+torchserve==0.9.0
+torch-model-archiver==0.9.0
+sentence_transformers==2.2.2
+tqdm==4.66.1
+nvgpu==0.10.0
+locust==2.21.0

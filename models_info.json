@@ -1,0 +1,7 @@
+{
+    "text_embedder_name": "paraphrase-multilingual-mpnet-base-v2",
+    "text_embedder_dir": "/home/gpuuser/.cache/huggingface/hub",
+
+    "image_embedder_name": "clip-ViT-B-32",
+    "image_embedder_dir": "/home/gpuuser/.cache/huggingface/hub"
+}
